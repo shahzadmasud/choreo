@@ -1,0 +1,5 @@
+com/wso2/choreo/sample/springboot/controller/BookController.class
+com/wso2/choreo/sample/springboot/model/Book.class
+com/wso2/choreo/sample/springboot/repository/BookRepository.class
+com/wso2/choreo/sample/springboot/service/BookService.class
+com/wso2/choreo/sample/springboot/ReadingListApplication.class
